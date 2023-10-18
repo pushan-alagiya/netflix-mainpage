@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Mainpage
 
 ![image](https://github.com/pushan-alagiya/netflix-mainpage/blob/main/public/Screenshot%20from%202023-10-18%2014-51-39.png?raw=true)
 
