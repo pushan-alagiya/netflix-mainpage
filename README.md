@@ -1,6 +1,6 @@
 # Netflix Mainpage
 
-![image](https://github.com/pushan-alagiya/netflix-mainpage/blob/main/public/Screenshot%20from%202023-10-18%2014-51-39.png?raw=true)
+![image](https://github.com/pushan-alagiya/netflix-mainpage/blob/main/public/Screenshot3.jpg?raw=true)
 
 A Netflix Clone project that replicates the popular streaming service's user interface. It's built using React, React-Youtube, Axios, and utilizes the TMDB API for fetching movie data. The Movie Trailer library is used to display trailers. This project started two months ago with the development of the [landing page](https://github.com/pushan-alagiya/Netflix-Clone), and now it has progressed to the main page. While it currently showcases a UI and plays trailers from YouTube, plans are in place to implement a full backend soon.
 
@@ -19,9 +19,7 @@ A Netflix Clone project that replicates the popular streaming service's user int
 - Movie Trailer
 - TMDB API
 
-![responsiveness](https://github.com/pushan-alagiya/netflix-mainpage/blob/main/public/Screenshot%20from%202023-10-18%2014-41-38.png?raw=true)
-
-![reponsiveness2](https://github.com/pushan-alagiya/netflix-mainpage/blob/main/public/Screenshot%20from%202023-10-18%2014-41-49.png?raw=true)
+![responsiveness](https://github.com/pushan-alagiya/netflix-mainpage/blob/main/public/Screenshot2.jpg?raw=true)
 
 ## Getting Started
 
